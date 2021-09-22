@@ -1,0 +1,10 @@
+.style {
+    background-color: aquamarine;
+    &_one {
+        color: lightcoral;
+    }
+    &_two {
+        color: blue;
+        font-size: 40px;
+    }
+}
